@@ -8,6 +8,8 @@
 * Export as JPG หรือ JPEG ที่มีค่า DPI 150 ขึ้นไป
 * Save As EPS Version 10
 * Save As SVG without Background (Cat Only)
+* Convert Font to Outline
+* Convert Stroke to Outline
 
 ## Expected Number of Products
 🗃️ 5 Products (Cat 5 ภาพ และ Internation Cat Day 5 ภาพ)
