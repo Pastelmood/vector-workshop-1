@@ -11,6 +11,10 @@
 
 ## Final Product
 ### Cat with Solid Background
+`ai` `eps` `jpg` `svg`
 
 ![Cat with Solid Background](https://github.com/Pastelmood/vector-workshop-1/blob/main/img/example-01.jpg)
+
+### Internation Cat Day
+`ai` `eps` `jpg` `svg`
 
