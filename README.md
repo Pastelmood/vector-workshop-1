@@ -11,6 +11,8 @@
 * Convert Font to Outline
 * Convert Stroke to Outline
 
+![File Example](https://github.com/Pastelmood/vector-workshop-1/blob/main/img/submit-files.png)
+
 ## Expected Number of Products
 🗃️ 5 Products (Cat 5 ภาพ และ Internation Cat Day 5 ภาพ)
 
